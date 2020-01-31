@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pr SYSTEM "pr.dtd">
+<pr>
+    <meta>
+        <keyname>PRI19_TPC7</keyname>
+        <title>API de dados sobre obras musicais</title>
+        <subtitle>TPC número sete da cadeira de Processamento e Representação de Informação</subtitle>
+        <bdate>11-11-2019</bdate>
+        <edate>12-11-2019</edate>
+        <supervisor>
+            <name>José Carlos Ramalho</name>
+            <email>jcr@di.uminho.pt</email>
+            <homepage>http://www4.di.uminho.pt/~jcr/</homepage>
+        </supervisor>
+    </meta>
+    <workteam>
+        <member>
+            <identifier>A75328</identifier>
+            <name>Tiago João Fernandes Baptista</name>
+            <email>a75328@alunos.uminho.pt</email>
+            <photo path="tiago.jpg"/>
+        </member>
+    </workteam>
+    <abstract>
+        <p> 
+            Para este trabalho de casa foi proposta a criação uma <b>API</b> de dados em <i>NodeJS</i> capaz de receber apenas pedidos
+            <i>GET</i> e de responder com os dados pedidos.Em primeiro lugar, foi necessária a passagem de um <i>dataset</i> em <i>xml</i> para formato <i>json</i> de 
+            maneira a permitir a inserção dos dados na base de dados em <i>mongo</i>.
+        </p>
+        <p>
+            O servidor criado corre na porta <b>3012</b> e responde a pedidos com a seguinte formatação de exemplo: <u>localhost:3012/obras</u>.A <i>API</i> permite obter a lista de obras de um determinado período,de um determinado
+            ano de criação ou de um determinado utilizador, tudo isto utilizando <i>query params</i>.
+        </p>
+        <p>
+            Por outro lado pode-se também obter informações relativas ao compositores das obras, utilizando a seguinte formatação :<u>localhost:3012/compositores</u>.
+            Neste caso é possível obter a listagem de todos os compositores ou então obter todas as obras de um determinado compositor.
+        </p>
+    </abstract>
+    <deliverables>
+        <deliverable path="../tpc7/">API de dados sobre obras musicais</deliverable>
+        <deliverable path="pr.xml">Project Record XML</deliverable>
+        <deliverable path="pr.xsl">Project Record XSL</deliverable>
+        <deliverable path="pr.html">Project Record</deliverable>
+    </deliverables>
+</pr>

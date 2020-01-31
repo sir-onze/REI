@@ -1,0 +1,44 @@
+Dia 22:
+
+-> Pagina inicial do perfil completa; (DONE)
+-> Começar a dar os toques finais no feed(comentários); (NAO ESTA FEITO -> TCHABS !!!)
+
+Dia 23:
+
+-> Acabar os toques finais no feed (Criar posts...); (MAIS OU MENOS FALTA VER O QUE O TCHABS TEM NO BACKEND)
+-> Aplicar o incremento dos likes; (se o tchabs já o tiver feito);
+-> Introduzir o multer para adicionar ficheiros;
+
+Dia 24:
+
+-> Aplicar filtragem no feed : tags, datas, etc...
+
+Dia 25:
+
+-> Introduzir o feed de albuns e eventos;
+-> Introduzir maneira de participar nos eventos;
+-> Introduzir os feeds por utilizador de maneira a poder consultar as suas pubs (posts,albuns,etc);
+
+Dia 26:
+
+-> Implementar o Chat qq coisa que seja 
+
+Dia 27:
+
+-> Introduzir a funcionalidade de editar o perfil;
+-> Começar a pensar na importação (gramaticas);
+
+Dia 28:
+
+-> Parte de gramáticas;
+
+Dia 29:
+
+-> Parte de gramáticas;
+
+GSC - 17
+PRI - 15
+SSI - 14 ?
+SDB  - 14
+EM - 12 ?
+CSI - ??

@@ -1,2 +1,2 @@
-# REI
-Projeto do perfil de PLC - A rede de engenharia Informática
+# Social-Network
+Trabalho prático de processamento e representação de Informação - Mestrado em Engenharia Informática

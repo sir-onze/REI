@@ -1,0 +1,6 @@
+import user: 
+	email:asde 
+	username:onze 
+	password:teste 
+	tipo:one
+.end import
